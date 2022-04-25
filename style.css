@@ -1,0 +1,37 @@
+
+/* Add Gradient bg*/ 
+
+body{
+    background-image: linear-gradient(to right, #000428, #004e92);
+    color: aliceblue;
+}
+
+input[type=text] {
+    background-color: #48db35;
+    color: rgb(14, 0, 0);
+    height: 35px;
+    font-size: large;
+    
+  }
+.prg {
+    text-align: center;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+
+}
+.btn3{
+    color: whitesmoke;
+    border-radius: 8px;
+    font-size: 15px;
+    background-color: #415ca0;
+    padding: 8px;
+}
+
+#demo{
+    color: yellow;
+    font-size :29px; 
+}
+
+.hdn{
+    font-size: 23px;
+}
+    
